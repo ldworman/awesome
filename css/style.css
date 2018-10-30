@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Exo+2");
+img {
+  width: 200px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  color: pink;
+  margin: 42px;
+}
+body {
+  margin: 30px 0px 0px 60px;
+  font-family: "Exo 2", sans-serif;
+  background: #d2f7f7;
+  color: purple;
+  font-size: 50px;
+}
+
+.header {
+  background: blue;
+}
+
+.I like gymnastics {
+  text-align: center;
+}
